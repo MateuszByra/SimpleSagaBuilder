@@ -1,0 +1,16 @@
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.Tests.deps.json
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.Tests.runtimeconfig.json
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.Tests.runtimeconfig.dev.json
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.Tests.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.Tests.pdb
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\bin\Debug\netcoreapp2.1\Saga.Core.pdb
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.csprojResolveAssemblyReference.cache
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.csproj.CoreCompileInputs.cache
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.AssemblyInfoInputs.cache
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.AssemblyInfo.cs
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.dll
+D:\Projekty\Microservices\Saga\Tests\Saga.Core.Tests\obj\Debug\netcoreapp2.1\Saga.Core.Tests.pdb

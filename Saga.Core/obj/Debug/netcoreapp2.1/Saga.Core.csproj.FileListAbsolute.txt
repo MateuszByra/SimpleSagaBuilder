@@ -1,0 +1,9 @@
+D:\Projekty\Microservices\Saga\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.deps.json
+D:\Projekty\Microservices\Saga\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.dll
+D:\Projekty\Microservices\Saga\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.pdb
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.csprojResolveAssemblyReference.cache
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.csproj.CoreCompileInputs.cache
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.AssemblyInfoInputs.cache
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.AssemblyInfo.cs
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.dll
+D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.pdb

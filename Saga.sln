@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saga.Core", "Saga.Core\Saga.Core.csproj", "{7C424AD2-7160-4BDF-A30B-5D2CBB25DF16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{6C5EC57F-15F1-4E5E-A449-1FE50F1D3B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saga.Core.Tests", "Tests\Saga.Core.Tests\Saga.Core.Tests.csproj", "{701D13E9-5EF0-435F-9646-66086DA4A63D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C424AD2-7160-4BDF-A30B-5D2CBB25DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C424AD2-7160-4BDF-A30B-5D2CBB25DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C424AD2-7160-4BDF-A30B-5D2CBB25DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C424AD2-7160-4BDF-A30B-5D2CBB25DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701D13E9-5EF0-435F-9646-66086DA4A63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701D13E9-5EF0-435F-9646-66086DA4A63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701D13E9-5EF0-435F-9646-66086DA4A63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701D13E9-5EF0-435F-9646-66086DA4A63D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{701D13E9-5EF0-435F-9646-66086DA4A63D} = {6C5EC57F-15F1-4E5E-A449-1FE50F1D3B66}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD3C99F-C85D-43D9-A596-C2620E8C39CA}
+	EndGlobalSection
+EndGlobal
