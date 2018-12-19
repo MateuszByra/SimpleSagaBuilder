@@ -22,6 +22,22 @@ namespace Saga.Core.Tests
             Assert.True(result);
             Assert.True(correlationId.ToString().Length > 0);
         }
+
+        [Fact]
+        public async void BookingFailed()
+        {
+            var vacationSagaBuilder = new VacationSagaBuilder();
+            vacationSagaBuilder.AddStep(new BookFlight().Succeeded());
+            vacationSagaBuilder.AddStep(new BookHotel().Failed());
+
+            var saga = vacationSagaBuilder.Build();
+
+            var result = await saga.ExecuteAsync();
+            var correlationId = saga.CorrelationId;
+
+            Assert.False(result);
+            Assert.True(correlationId.ToString().Length > 0);
+        }
     }
 
     public class BookHotel
