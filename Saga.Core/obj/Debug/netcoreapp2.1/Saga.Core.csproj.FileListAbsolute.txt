@@ -7,3 +7,12 @@ D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.Assem
 D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.AssemblyInfo.cs
 D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.dll
 D:\Projekty\Microservices\Saga\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.pdb
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.deps.json
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.dll
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\bin\Debug\netcoreapp2.1\Saga.Core.pdb
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.csprojAssemblyReference.cache
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.csproj.CoreCompileInputs.cache
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.AssemblyInfoInputs.cache
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.AssemblyInfo.cs
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.dll
+D:\Hynne\Projects\Git\SimpleSagaBuilder\Saga.Core\obj\Debug\netcoreapp2.1\Saga.Core.pdb

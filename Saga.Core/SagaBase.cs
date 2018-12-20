@@ -23,7 +23,7 @@ namespace Saga.Core
             _steps.Add(func);
         }
 
-        public async Task<bool> ExecuteAsync()
+        public async virtual Task<bool> ExecuteAsync()
         {
             await Task.WhenAll(_steps);
             return _steps.All(t => t.Result);
